@@ -32,6 +32,7 @@ export default class App extends Component {
       console.log(json);
     }).catch((err) => {
       console.log(err);
+      console.log(err);
     })
   }
   render() {
